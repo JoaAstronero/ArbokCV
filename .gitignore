@@ -1,0 +1,4 @@
+#Ignoramos un archivo en especifico
+archivoPrivado.txt
+#ignoramos todos los archivos que terminen en .css
+*.css
